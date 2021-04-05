@@ -6,7 +6,8 @@
   "sort-media-by": "filename",
   "download-photos": "copy",
   "cleanup": true,
-  "theme": "cards",
+  // "theme": "cards",
+  "theme-path": "./theme",
   "theme-style": "./custom.css",
   "footer": "Copyright Wanglab@Tongji",
   "usage-stats": true
